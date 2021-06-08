@@ -1,6 +1,6 @@
 # 한국 부동산 데이터 시각화 경진대회
 
-![](https://github.com/KJM94/Project/blob/main/데이콘 부동산 시각화/image/%EB%8D%B0%EC%9D%B4%EC%BD%98%20%EB%8C%80%ED%9A%8C%EB%AA%85.PNG)
+![](https://github.com/KJM94/Project/blob/main/데이콘_부동산_시각화/image/%EB%8D%B0%EC%9D%B4%EC%BD%98%20%EB%8C%80%ED%9A%8C%EB%AA%85.PNG)
 
 ## 콘테스트 개요
 
