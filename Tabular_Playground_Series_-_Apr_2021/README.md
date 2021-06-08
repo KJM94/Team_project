@@ -1,6 +1,6 @@
 # Tabular Playground Series - Apr 2021
 
-![](https://github.com/KJM94/Team_Project/blob/main/Tabular_Playground_Series_-_Apr_2021/img/Tabular%20Playground%20Series%20-%20Apr%202021.PNG)
+![](https://github.com/KJM94/Team_Project/blob/main/Tabular_Playground_Series_-_Apr_2021/image/Tabular%20Playground%20Series%20-%20Apr%202021.PNG)
 
 ## 콘테스트 개요
 
@@ -39,7 +39,7 @@
 **7. 결과** :  전체 1244팀중 348등(TOP28%)
 
 ## 소스 코드
-[Kaggle에서 제출물보기](https://www.kaggle.com/chohyungkwon/pycaret-stacking-2)
+[Kaggle에서 제출물보기](https://www.kaggle.com/kwonjungmin/titanic-visualization-bayesian-optimization)
 
 ## 대회 발표 자료
-[깃허브 pdf 링크](https://github.com/CHO111/Project/blob/main/Kaggle_Project/titanic_TeamProj_final.pdf)
+[깃허브 pdf 링크](https://github.com/KJM94/Team_project/blob/main/Tabular_Playground_Series_-_Apr_2021/titanic_TeamProj_final-.pdf)
