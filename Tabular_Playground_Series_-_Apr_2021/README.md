@@ -2,7 +2,7 @@
 
 ![](https://github.com/KJM94/Team_Project/blob/main/Tabular_Playground_Series_-_Apr_2021/image/Tabular%20Playground%20Series%20-%20Apr%202021.PNG)
 
-## 콘테스트 개요
+## 콘테스트 개요 
 
 **1. 설명**
 <br/>
