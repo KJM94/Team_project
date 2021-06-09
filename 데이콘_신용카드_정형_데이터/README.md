@@ -30,8 +30,11 @@
 - 학교, 기업, 교육 업체 등 단체에서 자유롭게 참가 가능 
 <br/>
 <br/>
-**6. 기여** : lightGBM 등 기법을 사용하여 정형 데이터 가공 
+  
+**6. 기여** : lightGBM 등 기법을 사용하여 정형 데이터 가공
+
 **7. 결과** : 1,506팀 중 404등 최종점수 - 0.70742
+
 
 ## 코드
 [git](https://github.com/KJM94/Team_project/blob/main/%EB%8D%B0%EC%9D%B4%EC%BD%98_%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C_%EC%A0%95%ED%98%95_%EB%8D%B0%EC%9D%B4%ED%84%B0/code/Simple_lightGBM.ipynb)
