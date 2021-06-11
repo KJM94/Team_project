@@ -40,4 +40,4 @@
 [git](https://github.com/KJM94/Team_project/blob/main/%EB%8D%B0%EC%9D%B4%EC%BD%98_%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C_%EC%A0%95%ED%98%95_%EB%8D%B0%EC%9D%B4%ED%84%B0/code/Simple_lightGBM.ipynb)
 
 ## 대회 발표 자료 
-[pdf](https://github.com/CHO111/Project/blob/main/Dacon/FILE/%EB%8D%B0%EC%9D%B4%EC%BD%98-%EC%8B%9C%EA%B0%81%ED%99%94.pdf)
+[pdf](https://github.com/KJM94/Team_project/blob/main/%EB%8D%B0%EC%9D%B4%EC%BD%98_%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C_%EC%A0%95%ED%98%95_%EB%8D%B0%EC%9D%B4%ED%84%B0/%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%97%B0%EC%B2%B4%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C.pdf)
