@@ -36,7 +36,6 @@
 **7. 결과** : 714팀 중 404등 최종점수 - 0.70742
 
 
-
 ## 코드
 [git](https://github.com/KJM94/Team_project/blob/main/%EB%8D%B0%EC%9D%B4%EC%BD%98_%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C_%EC%A0%95%ED%98%95_%EB%8D%B0%EC%9D%B4%ED%84%B0/code/Simple_lightGBM.ipynb)
 
