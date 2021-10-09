@@ -3,7 +3,6 @@
 ## 1. Tabular Playground Series - Apr 2021
 
 - 언어 및 작업툴: Python
-- 
 - 인원: 3명
 - 기간: 2021.04.19 - 2021.05.01
 - 내용
