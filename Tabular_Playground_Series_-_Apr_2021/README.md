@@ -41,5 +41,6 @@
 ## 소스 코드
 [Kaggle에서 제출물보기](https://www.kaggle.com/kwonjungmin/titanic-visualization-bayesian-optimization)
 
+
 ## 대회 발표 자료
 [깃허브 pdf 링크](https://github.com/KJM94/Team_project/blob/main/Tabular_Playground_Series_-_Apr_2021/titanic_TeamProj_final-.pdf)
